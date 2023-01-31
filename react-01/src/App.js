@@ -1,11 +1,9 @@
 // to create snippet use this "rafce"
 import React from 'react'
-
+import Navbar from './Navbar/Navbar'
 const App = () => {
   return (
-    
-
-      <h1>Hello Mounika</h1>
+    <Navbar />
     
   )
 }
